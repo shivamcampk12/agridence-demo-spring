@@ -6,9 +6,8 @@ Well! I have done this code pretty well, All of your pretty suggestions are invi
 
 ## Project resources
 
-- **Postman** collection [Click Here](Agridence-assignment.postman_collection.json)
+- **Postman** collection [Click Here](Agridence-Demo-Spring-Security.postman_collection.json)
 
-- **Database** dump      [Click Here](ProjectQuries.sql)
 
 ## Steps to run
 - 
